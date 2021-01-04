@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenThousandRecordsApi", "TenThousandRecordsApi\TenThousandRecordsApi.csproj", "{2C766DF4-1770-4888-A0D2-332EB8224BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenThousandRecordsApi.Tests", "TenThousandRecordsApi.Tests\TenThousandRecordsApi.Tests.csproj", "{00DCE2C8-DD79-4B27-867E-3727D7E4F516}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C766DF4-1770-4888-A0D2-332EB8224BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C766DF4-1770-4888-A0D2-332EB8224BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C766DF4-1770-4888-A0D2-332EB8224BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C766DF4-1770-4888-A0D2-332EB8224BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DCE2C8-DD79-4B27-867E-3727D7E4F516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DCE2C8-DD79-4B27-867E-3727D7E4F516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DCE2C8-DD79-4B27-867E-3727D7E4F516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DCE2C8-DD79-4B27-867E-3727D7E4F516}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
